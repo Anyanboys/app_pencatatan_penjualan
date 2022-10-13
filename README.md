@@ -34,12 +34,12 @@ Notes : Jika Sudah Menjalankan php artisan serve untuk mengakses alamat portofol
 
 ## Aplikasi Screenshot
 
-<img src="public/zinc/images/ping-1.png" alt="Tampilan Utama">
-<img src="public/zinc/images/ping-2.png" alt="Halaman Login">
-<img src="public/zinc/images/ping-3.png" alt="Tampilan Dashboard">
-<img src="public/zinc/images/ping-4.png" alt="Tampilan Profil">
-<img src="public/zinc/images/ping-5.png" alt="Tampilan Data Barang">
-<img src="public/zinc/images/ping-6.png" alt="Hasil Print Transaksi Pembelian">
+<img src="public/asset/zinc/images/ping-1.png" alt="Tampilan Utama">
+<img src="public/asset/zinc/images/ping-2.png" alt="Halaman Login">
+<img src="public/asset/zinc/images/ping-3.png" alt="Tampilan Dashboard">
+<img src="public/asset/zinc/images/ping-4.png" alt="Tampilan Profil">
+<img src="public/asset/zinc/images/ping-5.png" alt="Tampilan Data Barang">
+<img src="public/asset/zinc/images/ping-6.png" alt="Hasil Print Transaksi Pembelian">
 
 
 ## Alat Yang Digunakan Untuk Membuat Web :
