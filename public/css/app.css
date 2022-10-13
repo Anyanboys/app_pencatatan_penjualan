@@ -62,7 +62,7 @@ body {
   line-height: 1.6;
   color: #212529;
   text-align: left;
-  background-color: #f8fafc;
+  background-color: #2d6cac;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -429,7 +429,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #165b9b;
 }
 
 .list-unstyled {
@@ -475,8 +475,8 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #f8fafc;
-  border: 1px solid #dee2e6;
+  background-color: #3c81c7;
+  border: 1px solid #3f7bb8;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
@@ -1701,27 +1701,27 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #c6e0f5;
+  background-color: #185586;
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #95c5ed;
+  border-color: #f0f3f5;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #b0d4f1;
+  background-color: #185586;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #b0d4f1;
+  background-color: #185586;
 }
 
 .table-secondary,
 .table-secondary > th,
 .table-secondary > td {
-  background-color: #d6d8db;
+  background-color: #185586;
 }
 .table-secondary th,
 .table-secondary td,
@@ -1731,7 +1731,7 @@ pre code {
 }
 
 .table-hover .table-secondary:hover {
-  background-color: #c8cbcf;
+  background-color: #185586;
 }
 .table-hover .table-secondary:hover > td,
 .table-hover .table-secondary:hover > th {
@@ -1781,7 +1781,7 @@ pre code {
 .table-warning,
 .table-warning > th,
 .table-warning > td {
-  background-color: #fffacc;
+  background-color: #3357bb;
 }
 .table-warning th,
 .table-warning td,
@@ -1841,7 +1841,7 @@ pre code {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c6c8ca;
+  background-color: #185586;
 }
 .table-dark th,
 .table-dark td,
@@ -1851,7 +1851,7 @@ pre code {
 }
 
 .table-hover .table-dark:hover {
-  background-color: #b9bbbe;
+  background-color: #185586;
 }
 .table-hover .table-dark:hover > td,
 .table-hover .table-dark:hover > th {

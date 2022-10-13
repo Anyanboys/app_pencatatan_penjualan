@@ -41,7 +41,7 @@ html {
 }
 
 body, p {
-	color: #5e6576; 
+	color: #1b4cca; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
@@ -138,7 +138,7 @@ a:hover {
 }
 
 .bg-gray {
-	background-color: #f9f9f9;
+	background-color: #16cf69;
 }
 
 .section-title {
@@ -178,7 +178,7 @@ a:hover {
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
 	border: 1px solid #6168ff;
 	border-radius: 30px;
-	background-color: #6168ff;
+	background-color: #9e3636;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -288,7 +288,7 @@ a:hover {
 	padding-left: 1.5rem;
 	border: 1px solid #5e6576;
 	border-radius: 8px;
-	background-color: #ffffff;
+	background-color: #3c3acc;
 	color: #5e6576;
 	font-size: 0.875rem;
 	line-height: 1.5rem;
@@ -357,7 +357,7 @@ select {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #ffffff;
+	background-color: #35dd26;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -392,7 +392,7 @@ select {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: #ffffff;
+	background-color: #35dd26;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
@@ -442,7 +442,7 @@ select {
 	margin-top: 0.25rem;
 	margin-bottom: 0.25rem;
 	border: none;
-	background-color: #ffffff;
+	background-color: #35dd26;
 }
 
 .navbar .dropdown-item {
@@ -456,8 +456,8 @@ select {
 }
 
 .navbar .dropdown-item:hover {
-	background-color: #ffffff;
-	color: #6168ff;
+	background-color: #35dd26;
+	color: #ffff;
 }
 
 .navbar .dropdown-divider {
@@ -493,6 +493,7 @@ select {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
 	text-align: center;
+	background-color: #2cc7cc;
 }
 
 .header .h1-large {
@@ -510,7 +511,7 @@ select {
 
 .header .quote {
 	display: block;
-	color: #222222;
+	color: #15c95a;
 }
 
 .header .quote i {
@@ -536,7 +537,7 @@ select {
 	padding: 3rem 2rem;
 	border: 1px solid #5e6576;
 	border-radius: 20px;
-	background-color: transparent;
+	background-color: #35dd26;
 }
 
 .cards-1 .card-icon {
@@ -1231,7 +1232,7 @@ select {
 	/* Navigation */
 	.navbar {
 		padding-top: 1.75rem;
-		background-color: #ffffff;
+		background-color: #2cc7cc;
 		box-shadow: none;
 		transition: all 0.2s;
 	}
