@@ -34,12 +34,13 @@ Notes : Jika Sudah Menjalankan php artisan serve untuk mengakses alamat portofol
 
 ## Aplikasi Screenshot
 
-<img src="public/assets/zinc/images/ping-1.png" alt="Tampilan Utama">
-<img src="public/assets/zinc/images/ping-2.png" alt="Halaman Login">
-<img src="public/assets/zinc/images/ping-3.png" alt="Tampilan Dashboard">
-<img src="public/assets/zinc/images/ping-4.png" alt="Tampilan Profil">
-<img src="public/assets/zinc/images/ping-5.png" alt="Tampilan Data Barang">
-<img src="public/assets/zinc/images/ping-6.png" alt="Hasil Print Transaksi Pembelian">
+<img src="public/zinc/images/ping-1.png" alt="Tampilan Utama">
+<img src="public/zinc/images/ping-2.png" alt="Halaman Login">
+<img src="public/zinc/images/ping-3.png" alt="Tampilan Dashboard">
+<img src="public/zinc/images/ping-4.png" alt="Tampilan Profil">
+<img src="public/zinc/images/ping-5.png" alt="Tampilan Data Barang">
+<img src="public/zinc/images/ping-6.png" alt="Hasil Print Transaksi Pembelian">
+
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
@@ -50,7 +51,7 @@ Laptop Aspire A314-32-C3X0. Speaksifikasi :
 -   Prosesor : Intel Core i5-4200U 1.6 GHz with Turbo Boost up to 2.5 GHz
 -   Tipe System : 64 bit
 -   VGA : NVIDIA GEFORCE GT 720M with 2GB Dedicated VRAM
--   SSD : 1000 GB HDD
+-   SSD : 128 GB
 
 B. Software :
 
@@ -64,6 +65,5 @@ C. Komponen
 
 -   Laravel 8
 -   Bootstrap 4 & 5
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
