@@ -292,7 +292,7 @@ a:hover {
 	color: #5e6576;
 	font-size: 0.875rem;
 	line-height: 1.5rem;
-	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
+	appearance: none; /* removes inner shadow on form inputs on ios safari */
 }
 
 .form-control-select {
