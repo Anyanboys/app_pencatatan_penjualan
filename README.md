@@ -8,16 +8,16 @@
 
 Deploy Heroku : https://github.com/Anyanboys/app_pencatatan_penjualan (Deploy Link Sudah Bisa)
 
-## Portofolio Anyan
+## Portofolio Pencatatan Penjualan
 
-Coding Camp Anyanboys (Laravel Project), Kelas Partnership - Project Challenge (Tantangan).<br>
-Anda diminta untuk membuat Portofolio sederhana yang mencakup fitur:
+Coding Camp Anyanboys (Laravel Project)<br>
+Aplikasi ini digunakan oleh pebisnis untuk melakukan aktivitas penjualan, seperti transaksi, memproses, dan pembukuan data usaha. Serta membuat laporan jadi mudah dengan semua rincian transaksi yang tercatat rapih dan teliti, yang mencakup fitur:
 
-1. Halaman Utama Home
-2. Menampilkan About
-3. Menampilkan Resume
-4. Menampilkan Portofolio
-5. Menampilkan Contact
+1. Mencatat transaksi pembelian barang
+2. Menampilkan daftar transaksi pembelian barang
+3. Authentikasi login pengguna
+4. Pengaturan data pengguna
+5. Pengaturan data master produk
 
 ## Cara Instalasi ke Server Lokal :
 
